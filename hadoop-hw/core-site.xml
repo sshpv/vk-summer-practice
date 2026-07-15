@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<configuration>
+  <property>
+    <name>fs.defaultFS</name>
+    <value>hdfs://192.168.34.2:8020</value>
+  </property>
+  <property>
+    <name>ipc.client.connect.max.retries</name>
+    <value>20</value>
+  </property>
+  <property>
+    <name>ipc.client.connect.retry.interval</name>
+    <value>5000</value>
+  </property>
+</configuration>
