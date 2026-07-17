@@ -1,1 +1,1 @@
-# vk-vlm-practice
+# vk summer practice
